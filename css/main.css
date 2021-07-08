@@ -182,7 +182,6 @@ hr{
   width: 30%;
   border: 1px solid #bccf4f;
   padding: 2rem;
-  border-radius: 10px;
   box-shadow: 3px 3px 3px #0000002a;
   margin: 2rem;
   background-color: white;
@@ -190,12 +189,12 @@ hr{
 
 .card-title{
   font-size: 2rem;
-  margin: 2rem;
+  padding: 2rem;
   text-align: center;
 }
 
 .card-title hr{
-  margin-top: 1rem;
+  margin-top: .5rem;
 }
 
 .card img{
@@ -332,11 +331,12 @@ fieldset {
 
 .footer h1{
   font-size: 4rem;
+  margin-bottom: 2rem;
 }
 
-.footer p{
-  margin-top: 2rem;
-  font-size: 2rem;
+.footer a{
+  font-size: 1.5rem;
+  color: white;
 }
 
 .signature{
@@ -443,7 +443,7 @@ fieldset {
    }
 
    .card{
-     width: 50%;
+     width: 90%;
    }
  
    
