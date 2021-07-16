@@ -95,10 +95,7 @@ hr{
     transition:background-color 0.2s ease-in;
  }
 
-
-
 /* mission */
-
 
 #mission .content-mission{
     width: 70%;
@@ -146,8 +143,6 @@ hr{
   transition:background-color 0.2s ease-in;
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 }
-
-
 
 /* buy */
 
@@ -316,9 +311,6 @@ fieldset {
 	outline:0;
 	border:1px solid rgb(9, 153, 40);
 }
-  /*end contatti */
-
-
 
 /* footer */
 
@@ -351,22 +343,6 @@ fieldset {
 .signature a{
   color: #333;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* call to action */
 
@@ -421,7 +397,6 @@ fieldset {
  @media (max-width: 1000px) {
 
    
-
    .banner h1 {
      font-size: 5rem;
      line-height: 6rem;
@@ -445,16 +420,12 @@ fieldset {
    .card{
      width: 90%;
    }
- 
-   
- 
-   
+
  }
  
  @media (max-width: 700px) {
    
      
-
    .banner h1 {
      font-size: 4rem;
      line-height: 5rem;
